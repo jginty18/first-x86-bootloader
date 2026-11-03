@@ -7,4 +7,4 @@
 
 <b>What I learned:</b> Compiling assembly, configuring a simulated floppy drive, and troubleshooting boot errors.
 
-<b>Credit:</b> https: //www.joe-bergeron.com/posts/Writing%20a%20Tiny%20x86%20Bootloader/
+<b>Credit:</b> www.joe-bergeron.com/posts/Writing%20a%20Tiny%20x86%20Bootloader/
