@@ -1,5 +1,5 @@
 # first-x86-bootloader
-What it does: A 512-byte boot sector that displays a message using BIOS video services.
+<b>What it does:</b> A 512-byte boot sector that displays a message using BIOS video services.
 
 Tools: NASM, Bochs 3.1, and Windows.
 
